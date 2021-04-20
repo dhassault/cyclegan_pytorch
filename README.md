@@ -1,5 +1,7 @@
 # CycleGAN Implementation Using Pytorch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhassault/cyclegan_pytorch/blob/main/implementation_simple.ipynb)
+
 Implementation of https://arxiv.org/abs/1703.10593
 
 This youtube video from "Two minutes paper" provides a good summary of the method we are going to implement in this notebook:  
